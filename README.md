@@ -4,5 +4,8 @@
 Current Feature List:
 
 Scroll camera wheel
+
 Toggle between first and third person
+
 AI Character walks around the area randomly
+
