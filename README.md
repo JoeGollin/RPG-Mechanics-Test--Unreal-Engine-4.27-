@@ -9,3 +9,6 @@ Toggle between first and third person
 
 AI Character walks around the area randomly
 
+Main Menu
+
+Character health and death mechanic (level reset)
